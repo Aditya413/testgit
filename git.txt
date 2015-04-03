@@ -1,0 +1,20 @@
+﻿Git commands 
+
+1.aditya@aditya:~$ echo "#testgit">> READ.md
+aditya@aditya:~$ git init
+Reinitialized existing Git repository in /home/aditya/.git/
+
+2.aditya@aditya:~$ git add READ.md
+
+3.aditya@aditya:~$ git reset HEAD path/to/file
+
+4. aditya@aditya:~$ git commit -m "first commit"
+[master (root-commit) c5bf570] first commit
+ 1 file changed, 1 insertion(+)
+ create mode 100644 READ.md
+aditya@aditya:~$ 
+
+5.aditya@aditya:~$ git remote add adityabh https://github.com/Aditya413/testgit.git
+aditya@aditya:~$ 
+
+6.
